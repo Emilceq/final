@@ -1,0 +1,150 @@
+body {
+	background-color: black;
+}
+
+.image {
+	background-color: green;
+	position: relative;
+	padding: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 80%;
+	height: 100%;
+}
+
+.image img {
+	width: 100%;
+	height: 100%;
+	float: center;
+
+}
+
+.lede {
+	background-color: black;
+	padding: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	width: 70%;
+	line-height: 48px;
+}
+
+
+h1 {
+	margin-top: -370px;
+	font-family: 'Phosphate';
+	font-size: 64px;
+	text-align: left;
+	color: white;
+
+}
+
+h2 {
+	font-family: 'Phosphate';
+	font-size: 48px;
+	text-align: left;
+	color: white;
+	
+}
+
+p.smoke {
+	color: black;
+	background-color: white;
+	width: 70%;
+	font-family: 'Special Elite';
+	font-size: 24px;
+	color: black;
+	font-weight: bold;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 20px;
+	text-align: center;
+}
+
+p.business {
+	color: black;
+	background-color: #F1C40F;
+	width: 70%;
+	font-family: 'Special Elite';
+	font-size: 34px;
+	color: black;
+	font-weight: bold;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 20px;
+	text-align: center;
+}
+
+button {
+  background: white;
+  color: black;
+  width: 110px;
+  height: 80px;
+  border: black;
+  border-radius: 50px;
+  font-family: 'Rock Salt';
+  font-size: 14px;
+  margin-left: 10px;
+  margin-right: 20px;
+  float: right;
+  margin-top: 0px;
+}
+
+.container {
+	background-color: #8E44AD;
+	width: 70%;
+	padding: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	display: block;
+
+}
+
+.container img {
+	width: 100%;
+}
+
+.box {
+	background-color: #19A1F9;
+	width: 70%;
+	padding: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	display: block;
+
+}
+
+.box img {
+	width: 100%;
+}
+
+.sign {
+	background-color: #F919DA;
+	width: 70%;
+	padding: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	display: block;
+
+}
+
+.sign img {
+	width: 100%;
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+audio {
+	display: none;
+}
